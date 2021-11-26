@@ -1,0 +1,20 @@
+{
+  "name": "simplewebrtc-messenger",
+  "version": "1.0.0",
+  "description": "Explore SimpleWebRTC and how easy it is to implement WebRTC with it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenTechConsult/simplewebrtc-messenger.git"
+  },
+  "keywords": [],
+  "author": "Elom Atsou Agboka <opentech.consult@gmail.com> (https://github.com/OpenTechConsult)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenTechConsult/simplewebrtc-messenger/issues"
+  },
+  "homepage": "https://github.com/OpenTechConsult/simplewebrtc-messenger#readme"
+}
